@@ -1,7 +1,7 @@
-# Simple chess AI
+# Chess AI by Hedspi
 
-A simple chess algorithm with alpha-beta pruning and board evaluation with piece-square tables.
-
-Related blogpost: https://medium.freecodecamp.com/simple-chess-ai-step-by-step-1d55a9266977
-
-Playable on https://jsfiddle.net/q76uzxwe/1/
+1. Các thành viên
+* Nguyễn Hữu Dũng-20150682 
+* Đoàn Văn Sơn-20153185
+* Phạm Đình Tuấn Anh-20150159
+* Trịnh Hữu Vũ-20154412
